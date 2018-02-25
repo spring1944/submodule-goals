@@ -3,7 +3,7 @@ local moduleInfo = {
 	desc = "module providing goalTypes currently", -- initial temporary version of the module
 	author = "PepeAmpere",
 	date = "2018-02-09",
-	license = "notAlicense",
+	license = "MIT",
 }
 
 
